@@ -27,6 +27,8 @@ Streaming Movie Trailer:
 ![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20190659.png)
 
 View in samll devices:
+
+
 ![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20190936.png)
 
 
