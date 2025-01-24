@@ -8,6 +8,29 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Login or Signup page
+Summary:
+
+I have build this website using react js and tailwind framwork for styling also used api to show the movie trailer and to login and signup , I have used firebase
+
+Login or Signup page:
 
 ![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20185353.png)
+
+Hero Section:
+![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20190040.png)
+
+Movie Cateorgy Lists:
+![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20190315.png)
+
+Streaming Movie Trailer:
+
+![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20190659.png)
+
+View in samll devices:
+![Alt Text](src/assets/screenshots/Screenshot%202025-01-24%20190936.png)
+
+
+
+
+
+
